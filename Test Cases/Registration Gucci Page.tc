@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Gucci Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eedfa912-3171-4f14-9f04-a6b7a7aa7476</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d089931f-3799-458e-8ff1-2189f8ef537d</id>
+      <masked>false</masked>
+      <name>EmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a90e2ba3-575a-4ee8-bac8-392582a3aefc</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aea79be5-54bd-41b6-8afc-871301c633e6</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c123b8db-a5ed-4eff-92f4-71b2bdbc9705</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c250babe-7d6e-4521-9cc7-b13a7d80948a</id>
+      <masked>false</masked>
+      <name>Month</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>355d040c-0d9c-4809-bc78-3778e9daaf9c</id>
+      <masked>false</masked>
+      <name>Day</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c402f53d-259f-4ed3-95c3-82310843a51e</id>
+      <masked>false</masked>
+      <name>Year</name>
+   </variable>
+</TestCaseEntity>
